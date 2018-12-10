@@ -24,3 +24,5 @@
 [Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
 
 [Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
+
+[Alessio Fulgieri](https://snogard.github.io/InnerSource-Lab/)
