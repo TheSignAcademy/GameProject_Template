@@ -57,3 +57,5 @@
 [Giovanni Cerullo](https://gioce.github.io/InnerSource-Lab/)
 
 [Andrea Lucidi](https://andrealucidi.github.io/Andrea-Lucidi/)
+
+[Giacomo Salvadori](https://giacosalvadori.github.io/)
