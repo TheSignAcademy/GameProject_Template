@@ -7,3 +7,5 @@
 [Francesco Torchi](https://insomn1ac.github.io/InnerSource-Lab/)
 
 [Lapo Righini](https://github.com/LapoRighini/InnerSource-Lab)
+
+[Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
