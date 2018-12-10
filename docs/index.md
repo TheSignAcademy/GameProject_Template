@@ -17,7 +17,7 @@
 
 [Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni](https://gcm55.github.io/InnerSource-Lab/)
+[Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
@@ -25,10 +25,4 @@
 
 [Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
 
-[Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
-
-[Alessandro Pucci](https://a-pucci.github.io/InnerSource-Lab/)
-
-[Daniele Checcucci](https://danielecheccucci.github.io/InnerSource-Lab/)
-
-[Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
+[Sidorenko Daniel](https://danielsidorenko.github.io/InnerSource-Lab/)
