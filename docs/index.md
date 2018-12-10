@@ -30,3 +30,5 @@
 [Alessandro Pucci](https://a-pucci.github.io/InnerSource-Lab/)
 
 [Daniele Checcucci](https://danielecheccucci.github.io/InnerSource-Lab/)
+
+[Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
