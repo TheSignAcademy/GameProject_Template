@@ -1,7 +1,9 @@
 # test site
 
 [Stefano Cecere](https://stefanocecere.com)
+
 [Emanuele Piterà](https://pite97.github.io/InnerSource-Lab/)
+
 [Joseph Aliaga](https://joshsama.github.io/InnerSource-Lab/)
 
 [Francesco Torchi](https://insomn1ac.github.io/InnerSource-Lab/)
@@ -12,12 +14,13 @@
 
 [Carmelo Mammana](https://github.com/Melo96/InnerSource-Lab)
 
-
 [Lorenzo Tortorella](https://torto96.github.io/InnerSource-Lab/)
+
+[Lorenzo Calosi](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
 [Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
+[Giacomo Vanni](https://github.com/Gcm55/InnerSource-Lab)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
