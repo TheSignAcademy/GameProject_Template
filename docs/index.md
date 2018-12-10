@@ -5,3 +5,5 @@
 [Emanuele Piterà](https://pite97.github.io/InnerSource-Lab/)
 
 [Lorenzo Calosi](https://github.com/TheSignAcademy/InnerSource-Lab.git)
+
+[Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
