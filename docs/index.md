@@ -29,7 +29,7 @@
 
 [Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
 
-[Riccardo Pavone](ttps://riccardopavone.github.io/InnerSource-Lab/)
+[Riccardo Pavone](https://riccardopavone.github.io/InnerSource-Lab/)
 
 [Alessio Bucciarelli](https://abucciarelli-cr.github.io/InnerSource-Lab/)
 
@@ -41,3 +41,6 @@
 [Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
 [Mattia Tarocchi](https://mattiatarocchi.github.io/InnerSource-Lab/)
 [Giovanni Cerullo](https://gioce.github.io/InnerSource-Lab/)
+
+[Andrea Lucidi](https://andrealucidi.github.io/Andrea-Lucidi/)
+
