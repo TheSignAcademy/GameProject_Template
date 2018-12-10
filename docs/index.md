@@ -36,3 +36,6 @@
 [Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
 
 [Alessandro Pucci](https://a-pucci.github.io/InnerSource-Lab/)
+
+
+[Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
