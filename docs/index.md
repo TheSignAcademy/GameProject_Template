@@ -19,3 +19,5 @@
 [Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
+
+[Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
