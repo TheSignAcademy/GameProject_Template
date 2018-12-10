@@ -6,7 +6,7 @@
 
 [Francesco Torchi](https://insomn1ac.github.io/InnerSource-Lab/)
 
-[Lapo Righini](https://laporighini.github.io/InnerSource-Lab/)
+[Lapo Righini](https://github.com/LapoRighini/InnerSource-Lab)
 
 [Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
 
@@ -15,13 +15,12 @@
 
 [Lorenzo Tortorella](https://torto96.github.io/InnerSource-Lab/)
 
+[Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni](https://github.com/Gcm55/InnerSource-Lab)
+[Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
 [Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
 
 [Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
-
-[Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
