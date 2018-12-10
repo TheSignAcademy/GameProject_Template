@@ -26,6 +26,18 @@
 
 [Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
 
+[Alessio Fulgieri](https://snogard.github.io/InnerSource-Lab/)
+
+[Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
+
+[Alessandro Pucci](https://a-pucci.github.io/InnerSource-Lab/)
+
+[Daniele Checcucci](https://danielecheccucci.github.io/InnerSource-Lab/)
+
+[Daniele Checcucci](https://danielecheccucci.github.io/InnerSource-Lab/)
+
+[Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
+
 [Sidorenko Daniel](https://danielsidorenko.github.io/InnerSource-Lab/)
 
 [Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
