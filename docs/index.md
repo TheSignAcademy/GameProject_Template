@@ -9,3 +9,5 @@
 [Lapo Righini](https://github.com/LapoRighini/InnerSource-Lab)
 
 [Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
+
+[Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
