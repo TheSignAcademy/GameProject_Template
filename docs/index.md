@@ -21,3 +21,5 @@
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
 [Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
+
+[Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
