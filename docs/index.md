@@ -10,14 +10,14 @@
 
 [Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
 
-[Carmelo Mammana](https://github.com/Melo96/InnerSource-Lab)
+[Carmelo Mammana](https://melo96.github.io/InnerSource-Lab/)
 
 
 [Lorenzo Tortorella](https://torto96.github.io/InnerSource-Lab/)
 
 [Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni](https://github.com/Gcm55/InnerSource-Lab)
+[Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
@@ -30,3 +30,5 @@
 [Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
 
 [Riccardo Pavone](ttps://riccardopavone.github.io/InnerSource-Lab/)
+
+[Alessio Bucciarelli](https://abucciarelli-cr.github.io/InnerSource-Lab/)
