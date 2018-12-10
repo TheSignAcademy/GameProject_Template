@@ -1,46 +1,50 @@
 # test site
 
-[Stefano Cecere](https://stefanocecere.com)
-[Emanuele Piterà](https://pite97.github.io/InnerSource-Lab/)
-[Joseph Aliaga](https://joshsama.github.io/InnerSource-Lab/)
+[Stefano Cecere](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Francesco Torchi](https://insomn1ac.github.io/InnerSource-Lab/)
+[Emanuele Piterà](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Lapo Righini](https://github.com/LapoRighini/InnerSource-Lab)
+[Joseph Aliaga](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
+[Francesco Torchi](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Carmelo Mammana](https://melo96.github.io/InnerSource-Lab/)
+[Lapo Righini](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
+[Roberta Capitani](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Lorenzo Tortorella](https://torto96.github.io/InnerSource-Lab/)
+[Carmelo Mammana](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
+[Lorenzo Tortorella](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni] (https://github.com/Gcm55/InnerSource-Lab)
+[Lorenzo Calosi](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
+[Nicola Pierini](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Mercurio Iozzino](https://mercurio95.github.io)
+[Giacomo Vanni](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
+[Giampaolo Piccini](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Sidorenko Daniel](https://danielsidorenko.github.io/InnerSource-Lab/)
+[Mercurio Iozzino](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
+[Matteo Cosimi](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Riccardo Pavone](https://riccardopavone.github.io/InnerSource-Lab/)
+[Sidorenko Daniel](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Alessio Bucciarelli](https://abucciarelli-cr.github.io/InnerSource-Lab/)
+[Luca Fagnoni](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
+[Riccardo Pavone](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Alessandro Pucci](https://a-pucci.github.io/InnerSource-Lab/)
+[Alessio Bucciarelli](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
+[Emanuele Pacini](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
-[Mattia Tarocchi](https://mattiatarocchi.github.io/InnerSource-Lab/)
-[Giovanni Cerullo](https://gioce.github.io/InnerSource-Lab/)
+[Alessandro Pucci](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
-[Andrea Lucidi](https://andrealucidi.github.io/Andrea-Lucidi/)
+[Lorenza Balduini](https://lorenzocalosi.github.io/InnerSource-Lab/)
+
+[Mattia Tarocchi](https://lorenzocalosi.github.io/InnerSource-Lab/)
+
+[Giovanni Cerullo](https://lorenzocalosi.github.io/InnerSource-Lab/)
+
+[Andrea Lucidi](https://lorenzocalosi.github.io/InnerSource-Lab/)
 
