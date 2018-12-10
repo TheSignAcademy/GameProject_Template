@@ -11,3 +11,6 @@
 [Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
 
 [Carmelo Mammana](https://github.com/Melo96/InnerSource-Lab)
+
+
+[Lorenzo Tortorella](https://torto96.github.io/InnerSource-Lab/)
