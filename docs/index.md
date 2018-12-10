@@ -26,3 +26,5 @@
 [Matteo Cosimi](https://dedsec94.github.io/InnerSource-Lab/)
 
 [Sidorenko Daniel](https://danielsidorenko.github.io/InnerSource-Lab/)
+
+[Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
