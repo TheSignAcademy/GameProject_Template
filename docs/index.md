@@ -28,3 +28,5 @@
 [Sidorenko Daniel](https://danielsidorenko.github.io/InnerSource-Lab/)
 
 [Luca Fagnoni](https://bebofagno.github.io/InnerSource-Lab/)
+
+[Riccardo Pavone](ttps://riccardopavone.github.io/InnerSource-Lab/)
