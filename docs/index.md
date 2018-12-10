@@ -17,7 +17,7 @@
 
 [Nicola Pierini](https://nicolapierini95.github.io/InnerSource-Lab/)
 
-[Giacomo Vanni] (https://gcm55.github.io/InnerSource-Lab/)
+[Giacomo Vanni](https://gcm55.github.io/InnerSource-Lab/)
 
 [Giampaolo Piccini](https://juanpablop2.github.io/InnerSource-Lab/)
 
