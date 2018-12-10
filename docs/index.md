@@ -13,3 +13,5 @@
 [Roberta Capitani](https://robertacap.github.io/InnerSource-Lab/)
 
 [Mercurio Iozzino](https://mercurio95.github.io/InnerSource-Lab/)
+
+[Giacomo Salvadori](https://sugni.github.io/giacosalvadori.com/)
