@@ -5,3 +5,4 @@
 [Joseph Aliaga](https://joshsama.github.io/InnerSource-Lab/)
 
 [Francesco Torchi](https://insomn1ac.github.io/InnerSource-Lab/)
+[Lapo Righini](https://github.com/LapoRighini/InnerSource-Lab)
