@@ -39,3 +39,4 @@
 
 
 [Lorenza Balduini](https://lorybalduini.github.io/InnerSource-Lab/)
+[Mattia Tarocchi](https://mattiatarocchi.github.io/InnerSource-Lab/)
