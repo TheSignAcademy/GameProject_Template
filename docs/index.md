@@ -32,3 +32,5 @@
 [Riccardo Pavone](ttps://riccardopavone.github.io/InnerSource-Lab/)
 
 [Alessio Bucciarelli](https://abucciarelli-cr.github.io/InnerSource-Lab/)
+
+[Emanuele Pacini](https://emanuelepacini.github.io/InnerSource-Lab/)
