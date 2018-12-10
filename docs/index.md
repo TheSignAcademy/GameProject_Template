@@ -12,4 +12,4 @@
 
 [Carmelo Mammana](https://github.com/Melo96/InnerSource-Lab)
 
-[Nicola Pierini ] (https://github.com/NicolaPierini95/InnerSource-Lab)
+[Nicola Pierini] (https://github.com/NicolaPierini95/InnerSource-Lab)
