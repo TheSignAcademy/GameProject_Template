@@ -33,7 +33,9 @@ Ad Es:
 cosa manca di importante
 
 ## Download / Links
-links alle build
+- links alle builds (se esterne a questo progetto)
+- links ai docs (se esterne a questo progetto)
+- links alla Trello Board/Issues (se esterne a questo progetto)
 
 ## Team
 
