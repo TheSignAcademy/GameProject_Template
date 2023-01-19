@@ -73,6 +73,7 @@ crashlytics-build.properties
 
 # ------- VS Code
 .vscode/
+.vsconfig
 # ------- Local and private stuff
 _local/
 _local.meta
