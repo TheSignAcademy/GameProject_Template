@@ -71,8 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Local stuff
-Local/
-Local.meta
+# ------- Local and private stuff
 _local/
 _local.meta
+docs/_draft
+*.keystore
