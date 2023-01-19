@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+## READ CONFIG OPTIONS HERE: https://just-the-docs.github.io/just-the-docs/docs/configuration/
+
+title: "Game Project Title"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+search_enabled: false
+baseurl: ""
+url: ""

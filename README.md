@@ -1,13 +1,10 @@
-# InnerSource project Lab
-repository di test su InnerSource / OpenSource / GitHub / Unity project  
-il sito pubblicato dalla sezione /docs è https://thesignacademy.github.io/InnerSource-Lab/
+# Unity Project Template (rinominare)
 
-## Project Title
 eventuale sottotitolo / tagline
 
-## screenshots
+## Screenshots
 almeno 2, title e gameplay
-(link a /Marketing/Screenshots folder)
+(mettere le immagini dentro _production/Marketing/Screenshots/)
 
 ## Description
 in massimo due frasi sintetizzare il gioco
@@ -22,17 +19,11 @@ altre cose utili se non sono autoesplicative nel gioco
 ## Challenges
 ovvero le peculiarità di questo progetto
 
-Ad Es:
-- Usa le analytics? AI? Se si in che modo?
-- Target particolare?
-- Come si differenzia?
-- Si può imparare qualcosa?
-- sfide tecniche o di design superate
-
 ## ToDo
 cosa manca di importante
 
 ## Download / Links
+
 - links alle builds (se esterne a questo progetto)
 - links ai docs (se esterne a questo progetto)
 - links alla Trello Board/Issues (se esterne a questo progetto)
@@ -49,6 +40,5 @@ ruolo
 specialità  
 url al proprio GitHub o pagina personale
 
-## License
+## Licenza
 licenza d'uso, copyright etc
-
