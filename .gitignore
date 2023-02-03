@@ -14,6 +14,9 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+# ------- DS_Store (Mac Users)
+.DS_Store
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
