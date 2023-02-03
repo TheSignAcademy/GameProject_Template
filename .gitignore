@@ -74,6 +74,11 @@ crashlytics-build.properties
 # ------- VS Code
 .vscode/
 .vsconfig
+
+# ------- Jetbrain Rider Cache
+.idea/
+Assets/Plugins/Editor/JetBrains*
+
 # ------- Local and private stuff
 _local/
 _local.meta
